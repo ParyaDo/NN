@@ -1,3 +1,4 @@
 # NN
 NeuralNetworks <br>
-GAN Practice
+GAN Practice <br>
+<b> Practice makes perfect!
