@@ -1,3 +1,3 @@
 # NN
 NeuralNetworks
-GAN Practice
+{GAN Practice}
