@@ -1,2 +1,3 @@
 # NN
-NeuralNetworks
+NeuralNetworks <br>
+GAN Practice
